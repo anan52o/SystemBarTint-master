@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Android System Bar Tint
 =======================
 
@@ -97,3 +98,7 @@ License
     limitations under the License.
 
  [1]: http://repository.sonatype.org/service/local/artifact/maven/redirect?r=central-proxy&g=com.readystatesoftware.systembartint&a=systembartint&v=LATEST&&c=jar
+=======
+# SystemBarTint-master
+android SystemBarTint-master (系统状态栏修改)
+>>>>>>> 2678ec3a81af48f0f0916b9d42a5b15f19083f3b
